@@ -1,4 +1,4 @@
-# Step-down-less AB Drive for V2.2
+# DirectDrive AB Drive for V2.2
 These were designed for the following reasons:
  - Eliminate the 40$ stepdown
  - Reduce mechanical complexity
@@ -12,4 +12,4 @@ These were designed for the following reasons:
   - 0.5mm M5 Shim Washers
   - 4x F695 Bearings
 
- ![Image of AB Drive Unit]( https://github.com/Annex-Engineering/VORON_V2_Mods/blob/master/Step-down-less_AB_Drives/Images/Step-down-less_AB_Drives.JPG?raw=true)
+ ![Image of AB Drive Unit](https://github.com/Annex-Engineering/VORON_Mods/blob/master/VORON_V2/DirectDrive_AB_Drives/Images/Step-down-less_AB_Drives.JPG?raw=true?raw=true)
