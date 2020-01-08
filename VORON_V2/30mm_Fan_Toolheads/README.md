@@ -6,6 +6,6 @@ You will need the following:
 All of the printed parts in the STL folder
 Some fasteners (see eDrawing)
 
-![Image of 30mm Mosquito](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/30mm_Fan_Toolheads/Images/mosquito_toolhead_30mm_fan.png?raw=true)
+![Image of 30mm Mosquito](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/VORON_V2/30mm_Fan_Toolheads/Images/mosquito_toolhead_30mm_fan.png?raw=true)
 
-![Image of 30mm V6](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/30mm_Fan_Toolheads/Images/v6_toolhead_30mm_fan.png?raw=true)
+![Image of 30mm V6](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/VORON_V2/30mm_Fan_Toolheads/Images/v6_toolhead_30mm_fan.png?raw=true)

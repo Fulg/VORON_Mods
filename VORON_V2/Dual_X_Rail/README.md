@@ -5,5 +5,5 @@ Includes:
  - New XY Joints
  - New X Carriages
  
- ![Image of Rails](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/Dual_X_Rail/Images/dual_x_rail.png?raw=true)
- ![Image of X Carriages](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/Dual_X_Rail/Images/dual_x_rail_carriage.png?raw=true)
+ ![Image of Rails](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/VORON_V2/Dual_X_Rail/Images/dual_x_rail.png?raw=true)
+ ![Image of X Carriages](https://raw.githubusercontent.com/volcom8190/VORON_V2_Mods/master/VORON_V2/Dual_X_Rail/Images/dual_x_rail_carriage.png?raw=true)
