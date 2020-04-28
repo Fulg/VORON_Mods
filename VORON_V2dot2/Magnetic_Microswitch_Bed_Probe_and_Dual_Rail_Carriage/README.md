@@ -1,6 +1,6 @@
 # Magnetic Microswitch Bed Probe and Dual Rail X Carriage
 
-Based on the efforts by Mental and the MORON printer
+Based on the efforts by Mental and the (M)ORON - Mental's VORON printer
 
 Requires the following:
  - 9x 6x3 magnets
