@@ -2,7 +2,7 @@
 
 (mental's voron) 
 
-![Image of toolhead](https://github.com/Annex-Engineering/VORON_Mods/blob/master/VORON_Afterburner_Beta1/MORON_Afterburner_Front_Cover/Images/Action.png?raw=true)
+![Image of toolhead](Images/Action.png)
 
 This is a super early alpha of this so use at your own risk. It replaces the stock Afterburner "Front Cover" and "Blower Casing" and adds a fan grill that mounts on the stock screw holes using stock screw lengths.
 
@@ -12,16 +12,16 @@ The front grill probably doesn't supply enough air. I have had some heat creep i
 
 
 
-![Render of toolhead](https://github.com/Annex-Engineering/VORON_Mods/blob/master/VORON_Afterburner_Beta1/MORON_Afterburner_Front_Cover/Images/Render.png?raw=true)
+![Render of toolhead](Images/Render.png)
 
-![Flyapart of toolhead](https://github.com/Annex-Engineering/VORON_Mods/blob/master/VORON_Afterburner_Beta1/MORON_Afterburner_Front_Cover/Images/FlyApart.png?raw=true)
+![Flyapart of toolhead](Images/FlyApart.png)
 
 If you wish to add SMD LEDs to the blower casing part, it was designed for the strips that have a density of 144 LEDs/M because that is what I had lying around. It may work with the 60 LEDs per meter density strips as well. There are wire channels around the interior of the parts that should allow for 3 26-28 gauge wires to be routed to drive the LEDs.
 
-![Wire Channels](https://github.com/Annex-Engineering/VORON_Mods/blob/master/VORON_Afterburner_Beta1/MORON_Afterburner_Front_Cover/Images/CableRouting.png?raw=true)
+![Wire Channels](Images/CableRouting.png)
 
 Message me on discord if you have any trouble with the wiring and firmware settings for addressable LEDs.
 
 Print orientation.
 
-![Print orientation](https://github.com/Annex-Engineering/VORON_Mods/blob/master/VORON_Afterburner_Beta1/MORON_Afterburner_Front_Cover/Images/PrintOrientation.png?raw=true)
+![Print orientation](Images/PrintOrientation.png)
