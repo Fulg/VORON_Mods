@@ -1,7 +1,9 @@
 "ANNEX ENGINEERING HARDWARE AND SOFTWARE EULA"
 
 TLDR: 
+
 YOU MAY: modify, enhance, or create derived forms of the Software and Hardware for PERSONAL, ACADEMIC, or NON-COMMERCIAL USE ONLY, you must SHARE-ALIKE these works under this license
+
 YOU MAY NOT: reverse-engineer, decompile, or disassemble forms of the Software and Hardware
 
 This Non-Commercial Software and Hardware License Agreement (the "Agreement") is made between you (the "Licensee") and ANNEX Engineering. (the "Licensor"). By using this product (the "Software and Hardware"), you agree to be bound by the terms and conditions of this Agreement as may be revised from time to time at Licensor's sole discretion. If you do not agree to the terms and conditions of this Agreement, do not install or use the Software and Hardware.
